@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+*{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    font-size: 1rem;
+    font-weight: 400;
+    margin:1rem 0 0 1rem;
+}
+.list{
+    margin:3rem 0 0 3rem;
+    text-transform: capitalize;
+}
+.list li{
+    margin:1rem 0 0 1rem;
+}
+.menu{
+    text-transform: uppercase;
+    margin: 1rem 0 0 1rem;
+}
+button{
+    margin: 1rem;
+}
+.email{
+    margin: 1rem;
+}
+h2{
+    text-transform: capitalize;
+    margin:1rem
+}
+.button{
+    margin: 1rem 0.5rem ;
+}
+h3{
+    margin: 0 0 1rem 1rem;
+    text-transform: capitalize;
+}
+.main-conteiner-paragraph{
+    margin: 1rem;
+}
+.circle{
+    width: 246px;
+    height: 246px;
+    background-color: orangered;
+    margin: 1rem;
+    border-radius: 50%;
+}
+.box img{
+    width:180px;   
+}
+.box div{
+    display: inline-block;
+}
+.box{
+    margin: 1rem;
+}
+footer{
+    margin: 3rem 1rem 1rem 1rem;
+    text-transform: capitalize;
+}
+span img{
+    margin: 1rem 0 1rem 0;
+}
+.div p{
+margin: 1rem 0 1rem 0;
+}
+.listfooter li{
+margin: 1rem;
+}
